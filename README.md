@@ -1,9 +1,7 @@
 # Orkestra - Vanilla version example
 
-- [Orkestra](https://gitlab.vicomtech.es/mesh_sdk/orkestra) library use example for vanilla
-- [Example using as vanilla](https://gitlab.vicomtech.es/mesh_sdk/orkestra-vanilla/blob/master/src/app.vanilla.js)
-- [Example using as webpack](https://gitlab.vicomtech.es/mesh_sdk/orkestra-vanilla/blob/master/src/app.js)
-- [For using with Angular](https://gitlab.vicomtech.es/mesh_sdk/orkestra-angular)
+- Documentation [OrkestraLib](https://github.com/itamayo/orkestraLibtra) library use example for vanilla
+
 
 ## Run
 
