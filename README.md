@@ -1,6 +1,6 @@
 # Orkestra - Vanilla version example
 
-- Documentation [OrkestraLib](https://github.com/itamayo/orkestraLibtra) library use example for vanilla
+- Documentation [OrkestraLib](https://github.com/itamayo/orkestraLib) library use example for vanilla
 
 
 ## Run
