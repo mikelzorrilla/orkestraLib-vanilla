@@ -1,0 +1,23 @@
+{
+    "name": "getting_started_with_webpack_and_es6_modules",
+    "version": "0.1.0",
+    "description": "Getting started with webpack and ES6 modules",
+    "scripts": {
+        "build": "npm run webpack",
+        "webpack": "webpack -d --watch",
+        "start": "npm run prod && cp ./node_modules/orkestraLib/dist/orkestra.umd.js dist/ -f && http-server . -S -C ./certs/cert.pem -K ./certs/key.pem -o",
+        "prod": "webpack --mode production"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "webpack": "^4.20.2",
+        "webpack-cli": "^3.1.2",
+        "http-server": "latest",
+        "css-loader": "^3.6.0",
+        "style-loader": "^1.2.1"
+    },
+    "dependencies": {
+        "orkestraLib": "git+https://github.com/itamayo/orkestraLib.git",
+        "lit-element": "latest"
+    }
+}
