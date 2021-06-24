@@ -1,4 +1,4 @@
-# Orkestra - Vanilla version example
+# OrkestraLib - Vanilla version example
 
 - Documentation [OrkestraLib](https://github.com/itamayo/orkestraLib) library
 
